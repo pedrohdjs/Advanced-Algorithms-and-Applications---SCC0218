@@ -1,0 +1,6 @@
+Escreva um programa que ilustra a posição no texto (indexado a partir do índice 0) a ocorrência do padrão. Você deverá implementar uma versão KMP de processamento de strings.
+
+INPUT Ola como vai como
+
+OUTPUT O padrao foi encontrado na posicao 4
+
